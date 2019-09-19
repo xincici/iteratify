@@ -1,0 +1,22 @@
+{
+  "name": "iteratify",
+  "version": "0.0.1",
+  "description": "make object destructable use ...",
+  "main": "iteratify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xincici/iteratify.git"
+  },
+  "keywords": [
+    "iteratify"
+  ],
+  "author": "xincici <linye1987@sina.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xincici/iteratify/issues"
+  },
+  "homepage": "https://github.com/xincici/iteratify#readme"
+}
